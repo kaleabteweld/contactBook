@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kalea\\Desktop\\mssql-jdbc-9.2.1.jre15.jar",
+        "c:\\Users\\kalea\\Desktop\\mysql-connector-java-8.0.25.jar"
+    ]
+}
